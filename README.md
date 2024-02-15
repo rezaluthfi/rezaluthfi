@@ -12,6 +12,10 @@
 
 ###
 
+<h3 align="left">Languages and Tools</h3>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -42,14 +46,26 @@
 
 ###
 
+<h3 align="left">Contributions</h3>
+
+###
+
 <img src="https://raw.githubusercontent.com/rezaluthfi/rezaluthfi/output/snake.svg" alt="Snake animation" />
 
 ###
 
+<h3 align="left">Statistics</h3>
+
+###
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rezaluthfi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="120" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=rezaluthfi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=8&order=3" height="120" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rezaluthfi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=rezaluthfi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=8&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<h3 align="left">Social Media</h3>
 
 ###
 
