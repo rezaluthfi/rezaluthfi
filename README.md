@@ -49,8 +49,7 @@
 <h3 align="left">Contributions</h3>
 
 ###
-
-<img src="https://raw.githubusercontent.com/rezaluthfi/rezaluthfi/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/rezaluthfi/rezaluthfi/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
