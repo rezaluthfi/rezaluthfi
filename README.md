@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">Mobile Developer | Flutter & Kotlin Enthusiast | AI/ML Integration</p>
+<p align="center">Mobile Developer | Flutter & Kotlin | AI/ML Integration Enthusiast</p>
 
 <p align="center">
   <i>Building production-ready mobile apps with clean architecture and modern technologies</i>
@@ -22,7 +22,7 @@ I'm a **Software Engineering student** at Universitas Gadjah Mada specializing i
 
 - 🔭 Currently working as **Teaching Assistant** for Mobile Programming at UGM
 - 🏆 **Top 50** Asia-Pacific Google Solution Challenge 2025
-- 🥇 **Best Frontend Developer** @ GDGC UGM 2025
+- 🥇 **Best Frontend Hacker** at Google Developer Groups On Campus UGM 2024/2025
 - 📱 Experienced in building apps with **Flutter (BLoC, Provider)** and **Kotlin (Android Native)**
 - 🤖 Skilled in **AI/ML integration** (Gemini AI, ML Kit)
 
@@ -77,7 +77,7 @@ I'm a **Software Engineering student** at Universitas Gadjah Mada specializing i
 > Flutter app with clean architecture for dyslexia screening, multisensory therapy, progress tracking, TTS, STT, and customizeable reading tools
 - **Tech Stack:** Flutter, Provider, Firebase, Gemini AI, ML Kit
 - **Features:** AI-powered support, TTS/STT, customizable reading tools
-- **Achievement:** Top 50 Asia-Pacific Google Solution Challenge 2025
+- **Achievement:** Top 50 Asia-Pacific Google Solution Challenge 2025, Best UI/UX Design by Google Developer Groups on Campus UGM 2024/2025
 
 ### 👔 [SatuLemari](https://github.com/rezaluthfi/satu-lemari-app) - Clothing Platform
 > Comprehensive clothing donation, rental, and thrifting platform
@@ -99,8 +99,8 @@ I'm a **Software Engineering student** at Universitas Gadjah Mada specializing i
 ## 🏆 Achievements & Certifications
 
 - 🥇 **Top 50** - Asia-Pacific Google Solution Challenge 2025
-- 🥇 **Best Frontend Hacker** - GDG on Campus UGM (May 2025)
-- 🥇 **Best UI/UX Design** - GDG on Campus UGM (May 2025)
+- 🥇 **Best Frontend Hacker** - Google Developer Groups on Campus UGM (May 2025)
+- 🥇 **Best UI/UX Design** - Google Developer Groups on Campus UGM (May 2025)
 - 🥇 **1st Place UI/UX Design** - Digination Fest, PPI Dunia (Jun 2024)
 - 📜 **HCIA-AI V3.5** - Huawei
 - 📜 **Belajar Dasar AI** - Dicoding Indonesia
