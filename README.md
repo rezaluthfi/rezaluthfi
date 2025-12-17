@@ -119,7 +119,11 @@ I'm a **Software Engineering student** at Universitas Gadjah Mada specializing i
 
 ## 🐍 Contribution Graph
 
-![Snake animation](https://github.com/rezaluthfi/rezaluthfi/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rezaluthfi/rezaluthfi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rezaluthfi/rezaluthfi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rezaluthfi/rezaluthfi/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
 
