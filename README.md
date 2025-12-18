@@ -77,7 +77,7 @@ I'm a **Software Engineering student** at Universitas Gadjah Mada specializing i
 > Flutter app with clean architecture for dyslexia screening, multisensory therapy, progress tracking, TTS, STT, and customizeable reading tools
 - **Tech Stack:** Flutter, Provider, Firebase, Gemini AI, ML Kit
 - **Features:** AI-powered support, TTS/STT, customizable reading tools
-- **Achievement:** Top 50 Asia-Pacific Google Solution Challenge 2025, Best UI/UX Design by Google Developer Groups on Campus UGM 2024/2025
+- **Achievement:** Top 50 Asia-Pacific Google Solution Challenge 2025, Best UI/UX Design by GDGoC UGM 2024/2025
 
 ### 👔 [SatuLemari](https://github.com/rezaluthfi/satu-lemari-app) - Clothing Platform
 > Comprehensive clothing donation, rental, and thrifting platform
