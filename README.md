@@ -74,25 +74,30 @@ I'm a **Software Engineering student** at Universitas Gadjah Mada specializing i
 ## 🚀 Featured Projects
 
 ### 📱 [Neurodyx](https://github.com/rezaluthfi/neurodyx-app) - Dyslexia Support Mobile App
-> Flutter app with clean architecture for dyslexia screening, multisensory therapy, progress tracking, TTS, STT, and customizeable reading tools
+> Flutter app with clean architecture for dyslexia screening, multisensory therapy, and AI-powered support
 - **Tech Stack:** Flutter, Provider, Firebase, Gemini AI, ML Kit
-- **Features:** AI-powered support, TTS/STT, customizable reading tools
-- **Achievement:** Top 50 Asia-Pacific Google Solution Challenge 2025, Best UI/UX Design by GDGoC UGM 2024/2025
+- **Architecture:** Clean Architecture with separation of concerns
+- **Features:** AI-powered dyslexia support, TTS/STT, customizable reading tools, progress tracking
+- **Achievement:** 🏆 Top 50 Asia-Pacific Google Solution Challenge 2025, Best UI/UX Design GDGoC UGM
+- **Impact:** Helps children with dyslexia through multisensory learning approach
 
 ### 👔 [SatuLemari](https://github.com/rezaluthfi/satu-lemari-app) - Clothing Platform
-> Comprehensive clothing donation, rental, and thrifting platform
-- **Tech Stack:** Flutter, BLoC, Firebase
-- **Features:** AI recommendations, chatbot, QRIS payment, geolocation
+> Sustainable fashion platform for donation, rental, and thrifting
+- **Tech Stack:** Flutter, BLoC Pattern, Firebase, RESTful API
+- **State Management:** BLoC for scalable and testable code
+- **Features:** AI recommendations, interactive chatbot, QRIS payment, real-time geolocation
+- **Impact:** Promotes sustainable fashion through clothing reuse
 
 ### 🎬 [Cinemate](https://github.com/rezaluthfi/Cinemate-App) - Cinema Ticket Booking
-> Android native app for cinema ticket booking with modern architecture
+> Android native app for cinema ticket booking with modern architecture (Final Project - Mobile Programming Practicum)
 - **Tech Stack:** Kotlin, Room Database, Retrofit
-- **Features:** Complete booking flow, seat selection, ticket management
+- **Features:** Complete booking flow, seat selection, booking management, cancellation flow
 
 ### 🍽️ [Eats TEDI](https://github.com/rezaluthfi/eats-tedi) - Canteen Management
 > Tablet app for canteen operations and management
 - **Tech Stack:** Kotlin, RESTful API
-- **Features:** Menu management, sales reports, attendance tracking
+- **Features:** Menu CRUD, real-time sales reports, attendance tracking, cashier scheduling
+- **Optimization:** Tablet-specific UI/UX for better usability in food service environment
 
 ###
 
