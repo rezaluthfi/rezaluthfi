@@ -88,6 +88,15 @@ I'm a **Software Engineering student** at Universitas Gadjah Mada specializing i
 - **Features:** AI recommendations, interactive chatbot, QRIS payment, real-time geolocation
 - **Impact:** Promotes sustainable fashion through clothing reuse
 
+### 🏃 [GameFit](https://github.com/rezaluthfi/GameFit-App) - Gamified Fitness Mobile App
+> Android native app that gamifies physical activities to encourage a healthy lifestyle for gamers
+- **Tech Stack:** Java, Android Native, GPS Integration
+- **Features:** GPS-based activity tracking (running, jogging, cycling), gamification system with virtual rewards, in-game voucher mechanics
+- **Computer Vision (Planned):** Camera-based workout verification using computer vision to validate exercises such as push-ups, sit-ups, and other bodyweight movements
+- **Achievement:** 🏆 Top 10 teams representing UGM in GEMASTIK 2024 national competition
+- **Impact:** Encourages physical activity among gamers through a game-like reward system
+
+
 ### 🎬 [Cinemate](https://github.com/rezaluthfi/Cinemate-App) - Cinema Ticket Booking
 > Android native app for cinema ticket booking with modern architecture (Final Project - Mobile Programming Practicum)
 - **Tech Stack:** Kotlin, Room Database, Retrofit
