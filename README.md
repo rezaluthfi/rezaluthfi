@@ -88,6 +88,14 @@ I'm a **Software Engineering student** at Universitas Gadjah Mada specializing i
 - **Features:** AI recommendations, interactive chatbot, QRIS payment, real-time geolocation
 - **Impact:** Promotes sustainable fashion through clothing reuse
 
+### 💰 [CatatIn](https://github.com/rezaluthfi/catatin-app) - UMKM Financial Recordkeeping App
+> Offline-first Flutter app for financial recordkeeping, built for KKN-PPM UGM Alor Carita 2026 to digitalize UMKM in Kabola, Alor, NTT
+- **Tech Stack:** Flutter, Riverpod, sqflite, flutter_secure_storage, fl_chart, pdf/printing, excel
+- **Platform:** Android & Windows (single Flutter codebase)
+- **Architecture:** Fully offline, no account registration required; feature-first folder structure
+- **Features:** PIN-secured local access with recovery questions, integrated POS with Cash/Non-Cash/Kasbon payment methods, inventory with auto selling-price calculator & stock history, receivables (piutang) tracking with installment payments, synced financial trend charts & periodic recap, PDF/XLSX report export, JSON backup & restore
+- **Impact:** Helps UMKM in Kabola, Alor manage bookkeeping reliably despite limited internet access
+
 ### 🏃 [GameFit](https://github.com/rezaluthfi/GameFit-App) - Gamified Fitness Mobile App
 > Android native app that gamifies physical activities to encourage a healthy lifestyle for gamers
 - **Tech Stack:** Java, Android Native, GPS Integration
