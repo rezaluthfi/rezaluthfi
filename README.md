@@ -20,7 +20,7 @@
 
 I'm a **Software Engineering student** at Universitas Gadjah Mada specializing in **mobile development**. I love crafting seamless mobile experiences using Flutter and Kotlin, with a passion for integrating AI/ML capabilities into apps.
 
-- 🔭 Currently working as **Teaching Assistant** for Mobile Programming at UGM
+- 🔭 Currently an **Android Developer Intern** developing immersive technology solutions
 - 🏆 **Top 50** Asia-Pacific Google Solution Challenge 2025
 - 🥇 **Best Frontend Hacker** at Google Developer Groups On Campus UGM 2024/2025
 - 📱 Experienced in building apps with **Flutter (BLoC, Provider, Riverpod)** and **Kotlin (Android Native)**
