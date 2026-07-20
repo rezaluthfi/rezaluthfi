@@ -23,7 +23,7 @@ I'm a **Software Engineering student** at Universitas Gadjah Mada specializing i
 - 🔭 Currently working as **Teaching Assistant** for Mobile Programming at UGM
 - 🏆 **Top 50** Asia-Pacific Google Solution Challenge 2025
 - 🥇 **Best Frontend Hacker** at Google Developer Groups On Campus UGM 2024/2025
-- 📱 Experienced in building apps with **Flutter (BLoC, Provider)** and **Kotlin (Android Native)**
+- 📱 Experienced in building apps with **Flutter (BLoC, Provider, Riverpod)** and **Kotlin (Android Native)**
 - 🤖 Skilled in **AI/ML integration** (Gemini AI, ML Kit)
 
 ###
@@ -89,7 +89,7 @@ I'm a **Software Engineering student** at Universitas Gadjah Mada specializing i
 - **Impact:** Promotes sustainable fashion through clothing reuse
 
 ### 💰 [CatatIn](https://github.com/rezaluthfi/catatin-app) - UMKM Financial Recordkeeping App
-> Offline-first Flutter app for financial recordkeeping, built for KKN-PPM UGM Alor Carita 2026 to digitalize UMKM in Kabola, Alor, NTT
+> Offline-first Flutter app for financial recordkeeping, built for KKN-PPM UGM Alor Carita 2026 to digitalize UMKM in Kabola, Alor, East Nusa Tenggara
 - **Tech Stack:** Flutter, Riverpod, sqflite, flutter_secure_storage, fl_chart, pdf/printing, excel
 - **Platform:** Android & Windows (single Flutter codebase)
 - **Architecture:** Fully offline, no account registration required; feature-first folder structure
